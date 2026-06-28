@@ -1,6 +1,8 @@
 {
   "short_name": "Qwerty Learner",
   "name": "Qwerty Learner",
+  "description": "为键盘工作者设计的单词与肌肉记忆锻炼软件",
+  "lang": "zh-CN",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,16 +12,20 @@
     {
       "src": "android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "android-chrome-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
+  "scope": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "orientation": "landscape",
+  "theme_color": "#818CF8",
   "background_color": "#ffffff"
 }

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": "build",
+  "rewrites": [
+    {
+      "source": "/((?!assets/|dicts/|sounds/|.*\\.(?:png|jpg|jpeg|svg|ico|json|xml|txt|webp)).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
