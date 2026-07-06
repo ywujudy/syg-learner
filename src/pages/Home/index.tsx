@@ -205,14 +205,16 @@ const Home: React.FC = () => {
               </div>
             )
           })}
-        </section>
 
-        <section className="mx-auto mt-14 max-w-md rounded-2xl border border-blue-100 bg-white p-6 text-center shadow-sm dark:border-slate-700 dark:bg-slate-800 lg:mt-20">
-          <h2 className="text-base font-semibold text-slate-900 dark:text-white">扫码联系思研阁</h2>
-          <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">微信扫码，加入思研阁社区</p>
-          <div className="mt-4 flex justify-center">
-            <div className="rounded-xl border border-slate-200 bg-white p-3 dark:border-slate-700">
-              <img src={siyangeLink} alt="思研阁联系二维码" className="h-52 w-52 object-contain sm:h-60 sm:w-60" />
+          <div className="relative flex h-48 items-center gap-4 overflow-hidden rounded-2xl border border-blue-100 bg-white p-4 shadow-sm dark:border-slate-700 dark:bg-slate-800">
+            <img
+              src={siyangeLink}
+              alt="思研阁联系二维码"
+              className="h-full w-auto flex-shrink-0 rounded-lg object-contain"
+            />
+            <div className="flex flex-col">
+              <h3 className="text-lg font-semibold text-slate-900 dark:text-white">扫码联系思研阁</h3>
+              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">微信扫码，加入思研阁社区</p>
             </div>
           </div>
         </section>
