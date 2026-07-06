@@ -1,7 +1,7 @@
 {
-  "short_name": "Qwerty Learner",
-  "name": "Qwerty Learner",
-  "description": "为键盘工作者设计的单词与肌肉记忆锻炼软件",
+  "short_name": "思研阁",
+  "name": "思研阁 SI YAN GE",
+  "description": "专注数理化提分辅导，结合赛道竞速的英语单词与肌肉记忆训练平台。",
   "lang": "zh-CN",
   "icons": [
     {
@@ -26,6 +26,6 @@
   "scope": ".",
   "display": "standalone",
   "orientation": "landscape",
-  "theme_color": "#818CF8",
+  "theme_color": "#2563eb",
   "background_color": "#ffffff"
 }

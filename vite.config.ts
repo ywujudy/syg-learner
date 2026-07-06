@@ -33,6 +33,14 @@ export default defineConfig(async ({ mode }) => {
       outDir: 'build',
       sourcemap: false,
     },
+    server: {
+      proxy: {
+        '/api': {
+          target: 'http://localhost:4000',
+          changeOrigin: true,
+        },
+      },
+    },
     esbuild: {
       drop: mode === 'development' ? [] : ['console', 'debugger'],
     },

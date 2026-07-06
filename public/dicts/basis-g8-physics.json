@@ -1,0 +1,378 @@
+[
+  {
+    "name": "scaler",
+    "trans": [
+      "标量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vector",
+    "trans": [
+      "矢量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reference point",
+    "trans": [
+      "参考点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "at rest",
+    "trans": [
+      "静止"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "origin",
+    "trans": [
+      "原点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "original",
+    "trans": [
+      "原来的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "final",
+    "trans": [
+      "最后的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "displacement",
+    "trans": [
+      "位移"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "distance",
+    "trans": [
+      "路程"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "speed",
+    "trans": [
+      "速率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "velocity",
+    "trans": [
+      "速度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "resultant velocity",
+    "trans": [
+      "合速度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantity",
+    "trans": [
+      "物理量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "motion",
+    "trans": [
+      "运动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "qualitative",
+    "trans": [
+      "定性的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantitative",
+    "trans": [
+      "定量的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "instantaneous",
+    "trans": [
+      "瞬时的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "constant",
+    "trans": [
+      "不变的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "uniform",
+    "trans": [
+      "均匀的，不变的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "assume",
+    "trans": [
+      "假设"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "实验"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cause and effect",
+    "trans": [
+      "因果"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "variable",
+    "trans": [
+      "变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "element",
+    "trans": [
+      "元素"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "特征"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "factor",
+    "trans": [
+      "因数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "liable",
+    "trans": [
+      "有……倾向的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vary",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independent variable",
+    "trans": [
+      "自变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "manipulated",
+    "trans": [
+      "受控的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dependent variable",
+    "trans": [
+      "因变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "controlled variable",
+    "trans": [
+      "控制变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fair",
+    "trans": [
+      "公平的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "control group",
+    "trans": [
+      "对照组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "investigation",
+    "trans": [
+      "调查"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "measure",
+    "trans": [
+      "测量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "depth",
+    "trans": [
+      "深度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "design",
+    "trans": [
+      "设计"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hypothesis",
+    "trans": [
+      "假设"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "significant figure",
+    "trans": [
+      "有效数字"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hypothesis",
+    "trans": [
+      "假设"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "qualitative",
+    "trans": [
+      "定性的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quantitative",
+    "trans": [
+      "定量的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "independent variable",
+    "trans": [
+      "自变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "conclusion",
+    "trans": [
+      "结论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "controlled variable",
+    "trans": [
+      "控制变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

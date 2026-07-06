@@ -3,7 +3,7 @@
   "outputDirectory": "build",
   "rewrites": [
     {
-      "source": "/((?!assets/|dicts/|sounds/|.*\\.(?:png|jpg|jpeg|svg|ico|json|xml|txt|webp)).*)",
+      "source": "/((?!api/|assets/|dicts/|sounds/|.*\\.(?:png|jpg|jpeg|svg|ico|json|xml|txt|webp)).*)",
       "destination": "/index.html"
     }
   ]

@@ -1,6 +1,8 @@
 import Layout from '../../components/Layout'
 import { DictChapterButton } from './components/DictChapterButton'
+import EnergyBox from './components/EnergyBox'
 import PronunciationSwitcher from './components/PronunciationSwitcher'
+import RaceTrack from './components/RaceTrack'
 import ResultScreen from './components/ResultScreen'
 import Speed from './components/Speed'
 import StartButton from './components/StartButton'
@@ -10,17 +12,19 @@ import WordPanel from './components/WordPanel'
 import { useConfetti } from './hooks/useConfetti'
 import { useWordList } from './hooks/useWordList'
 import { TypingContext, TypingStateActionType, initialState, typingReducer } from './store'
-import { DonateCard } from '@/components/DonateCard'
+import { energyBarsAtom, energyPointsAtom, skinLevelAtom } from './store/energyAtom'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
 import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
+import { authUserAtom } from '@/store/authAtom'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
 import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
 import type React from 'react'
 import { useCallback, useEffect, useState } from 'react'
+import { NavLink } from 'react-router-dom'
 import { useImmerReducer } from 'use-immer'
 
 const App: React.FC = () => {
@@ -36,6 +40,19 @@ const App: React.FC = () => {
 
   const reviewModeInfo = useAtomValue(reviewModeInfoAtom)
   const isReviewMode = useAtomValue(isReviewModeAtom)
+
+  const authUser = useAtomValue(authUserAtom)
+  const setEnergyPoints = useSetAtom(energyPointsAtom)
+  const setEnergyBars = useSetAtom(energyBarsAtom)
+  const setSkinLevel = useSetAtom(skinLevelAtom)
+
+  useEffect(() => {
+    if (!authUser) {
+      setEnergyPoints(0)
+      setEnergyBars(0)
+      setSkinLevel(1)
+    }
+  }, [authUser, setEnergyPoints, setEnergyBars, setSkinLevel])
 
   useEffect(() => {
     // 检测用户设备
@@ -128,10 +145,18 @@ const App: React.FC = () => {
 
   return (
     <TypingContext.Provider value={{ state: state, dispatch }}>
-      {state.isFinished && <DonateCard />}
       {state.isFinished && <ResultScreen />}
       <Layout>
-        <Header>
+        <Header
+          extraAction={
+            <NavLink
+              to="/"
+              className="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-sm text-slate-600 shadow-sm transition hover:border-blue-300 hover:text-blue-600 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300"
+            >
+              返回首页
+            </NavLink>
+          }
+        >
           <DictChapterButton />
           <PronunciationSwitcher />
           <Switcher />
@@ -147,6 +172,7 @@ const App: React.FC = () => {
             </button>
           </Tooltip>
         </Header>
+        <RaceTrack />
         <div className="container mx-auto flex h-full flex-1 flex-col items-center justify-center pb-5">
           <div className="container relative mx-auto flex h-full flex-col items-center">
             <div className="container flex flex-grow items-center justify-center">
@@ -166,6 +192,7 @@ const App: React.FC = () => {
         </div>
       </Layout>
       <WordList />
+      <EnergyBox />
     </TypingContext.Provider>
   )
 }

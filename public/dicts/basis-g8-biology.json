@@ -1,0 +1,2850 @@
+[
+  {
+    "name": "Independent variable",
+    "trans": [
+      "自变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Dependent variable",
+    "trans": [
+      "因变量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mean",
+    "trans": [
+      "均值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Median",
+    "trans": [
+      "中值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mode",
+    "trans": [
+      "模式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Testable question",
+    "trans": [
+      "可测试问题"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Control variable",
+    "trans": [
+      "控制變數"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Control/ control group",
+    "trans": [
+      "控制/对照组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Scientific claim",
+    "trans": [
+      "科学声明"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Scientific theory",
+    "trans": [
+      "科学理论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Control group",
+    "trans": [
+      "对照组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Experimental group",
+    "trans": [
+      "试验组"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cohesion",
+    "trans": [
+      "连贯性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Adhesion",
+    "trans": [
+      "附着力"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "High Heat Capacity",
+    "trans": [
+      "热容量"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "High heat of vaporization",
+    "trans": [
+      "高蒸发热"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Universal Solvent",
+    "trans": [
+      "通用溶剂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Capillary action",
+    "trans": [
+      "毛细现象"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Electronegativity",
+    "trans": [
+      "电负性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Solute",
+    "trans": [
+      "溶质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Solvent",
+    "trans": [
+      "溶剂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Macromolecule",
+    "trans": [
+      "高分子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Monomer",
+    "trans": [
+      "单体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Polymer",
+    "trans": [
+      "聚合物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Polymerization",
+    "trans": [
+      "聚合作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Dehydration Reaction",
+    "trans": [
+      "脱水反应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hydrolysis Reaction",
+    "trans": [
+      "水解反应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Carbohydrates",
+    "trans": [
+      "碳水化合物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Monosaccharides",
+    "trans": [
+      "单糖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Polysaccharides",
+    "trans": [
+      "多糖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Glycosidic Bond",
+    "trans": [
+      "糖苷键"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Active Site",
+    "trans": [
+      "活性位点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Activation Energy",
+    "trans": [
+      "激活能"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Catalyst",
+    "trans": [
+      "融合液"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Enzyme",
+    "trans": [
+      "酶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Substrate",
+    "trans": [
+      "基体材料"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pH",
+    "trans": [
+      "pH值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Denaturation",
+    "trans": [
+      "变性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Amino Acid",
+    "trans": [
+      "氨基酸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Peptide Bond",
+    "trans": [
+      "肽键"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nucleic Acids",
+    "trans": [
+      "核酸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nucleotides",
+    "trans": [
+      "多聚核苷酸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phosphodiester Bond",
+    "trans": [
+      "磷酸二酯键"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Lipid",
+    "trans": [
+      "脂類"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phospholipid",
+    "trans": [
+      "磷脂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phosphate Head",
+    "trans": [
+      "磷酸盐头"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Saturated Fatty Acid",
+    "trans": [
+      "饱和脂肪酸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Unsaturated Fatty Acid",
+    "trans": [
+      "不饱和脂肪酸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hydrophilic",
+    "trans": [
+      "親水性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hydrophobic",
+    "trans": [
+      "疏水性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nuclear envelope",
+    "trans": [
+      "核外壳"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nuclear pore",
+    "trans": [
+      "核孔"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cell theory",
+    "trans": [
+      "细胞理论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Eukaryote",
+    "trans": [
+      "真核生物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Prokaryote",
+    "trans": [
+      "原核生物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cytoplasm",
+    "trans": [
+      "细胞质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nucleus",
+    "trans": [
+      "核"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mitochondria",
+    "trans": [
+      "线粒体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Vacuole",
+    "trans": [
+      "液胞"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Ribosome",
+    "trans": [
+      "核糖体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cell wall",
+    "trans": [
+      "細胞壁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nucleoid region",
+    "trans": [
+      "类核区"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Plasmid",
+    "trans": [
+      "质粒"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Capsule",
+    "trans": [
+      "胶囊"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Flagellum",
+    "trans": [
+      "鞭毛"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Organelle",
+    "trans": [
+      "細胞器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Lysosome",
+    "trans": [
+      "溶酶体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cytoskeleton",
+    "trans": [
+      "细胞骨架"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nucleolus",
+    "trans": [
+      "核仁"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rRNA",
+    "trans": [
+      "rRNA"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Endomembrane system",
+    "trans": [
+      "内膜系统"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Vesicle",
+    "trans": [
+      "囊泡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Endoplasmic reticulum",
+    "trans": [
+      "内质网"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Golgi apparatus",
+    "trans": [
+      "高尔基体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Chloroplast",
+    "trans": [
+      "叶绿体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Endosymbiosis theory",
+    "trans": [
+      "内共生理论"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fluid mosaic model",
+    "trans": [
+      "流体马赛克模型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Selectively permeable",
+    "trans": [
+      "半透膜"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "membrane",
+    "trans": [
+      "薄膜"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phosphate head",
+    "trans": [
+      "磷酸盐头"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Active transport",
+    "trans": [
+      "主動運輸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Passive transport",
+    "trans": [
+      "被动转运"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Osmosis",
+    "trans": [
+      "渗透"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Diffusion",
+    "trans": [
+      "扩散"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Endocytosis",
+    "trans": [
+      "细胞吞噬作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Exocytosis",
+    "trans": [
+      "胞吐作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phagocytosis",
+    "trans": [
+      "吞噬作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Pinocytosis",
+    "trans": [
+      "胞饮作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Facilitated diffusion",
+    "trans": [
+      "易化扩散"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Semi-permeable",
+    "trans": [
+      "半渗透"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hypertonic",
+    "trans": [
+      "高渗"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Isotonic",
+    "trans": [
+      "isotonic"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hypotonic",
+    "trans": [
+      "低渗"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Concentration gradient",
+    "trans": [
+      "扩散作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Aquaporin",
+    "trans": [
+      "水通道蛋白"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cotransport ion pump",
+    "trans": [
+      "同输离子泵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Transport protein",
+    "trans": [
+      "转运蛋白"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Channel protein",
+    "trans": [
+      "通道蛋白"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Carrier protein",
+    "trans": [
+      "载体蛋白"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ATP",
+    "trans": [
+      "ATP"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ADP and P (phosphate)",
+    "trans": [
+      "ADP和P （磷酸盐）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Stroma",
+    "trans": [
+      "基质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Granum",
+    "trans": [
+      "Granum"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Thylakoids",
+    "trans": [
+      "类囊体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mitochondrial matrix",
+    "trans": [
+      "线粒体基质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Photoautotroph",
+    "trans": [
+      "光自养"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Pigment",
+    "trans": [
+      "颜料"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Producers",
+    "trans": [
+      "制作人"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Consumers",
+    "trans": [
+      "Consumers"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Heterotroph",
+    "trans": [
+      "異營生物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Aerobic",
+    "trans": [
+      "有氧运动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Anaerobic",
+    "trans": [
+      "厌氧法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Yeast",
+    "trans": [
+      "酵母"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Lactic Acid Fermentation",
+    "trans": [
+      "乳酸发酵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cristae",
+    "trans": [
+      "Cristae"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Intermembrane space",
+    "trans": [
+      "膜间隙"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Matrix",
+    "trans": [
+      "方阵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Photosynthesis",
+    "trans": [
+      "光合作用(Photosynthesis)"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Outer membrane",
+    "trans": [
+      "外膜"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Inner membrane",
+    "trans": [
+      "内膜"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Aceytl (CoA)",
+    "trans": [
+      "Aceytl (CoA)"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "NAD+ / NADH",
+    "trans": [
+      "NAD +/NADH"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Thylakoid lumen",
+    "trans": [
+      "类囊体管腔"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Thylakoid membrane",
+    "trans": [
+      "类囊体膜"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Light Dependent Cycle",
+    "trans": [
+      "光照相关循环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "NADPH",
+    "trans": [
+      "NADPH"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Photophosphorylation",
+    "trans": [
+      "光合磷酸化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Oxidation",
+    "trans": [
+      "氧化作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Reduction",
+    "trans": [
+      "还原"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Electron Transport Chain",
+    "trans": [
+      "电子传递链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Glycolysis",
+    "trans": [
+      "糖酵解"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Citric Acid Cycle",
+    "trans": [
+      "柠檬酸循环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "OxidativePhosphorylation",
+    "trans": [
+      "氧化磷酸化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Redox reaction",
+    "trans": [
+      "氧化还原反应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Pyruvate Oxidation",
+    "trans": [
+      "丙酮酸盐氧化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Autotroph",
+    "trans": [
+      "自养生物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Chlorophyll",
+    "trans": [
+      "叶绿素"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Proton Gradient",
+    "trans": [
+      "质子梯度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mesophyll",
+    "trans": [
+      "叶肉"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Stomata",
+    "trans": [
+      "气孔"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Alcoholic Fermentation",
+    "trans": [
+      "乙醇发酵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Light independent reactions",
+    "trans": [
+      "光独立反应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cellular respiration",
+    "trans": [
+      "呼吸作用"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fermentation",
+    "trans": [
+      "发酵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Rubisco",
+    "trans": [
+      "1,5-二磷酸核酮糖加氧酶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Calvin cycle",
+    "trans": [
+      "卡尔文氏循环"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PSII",
+    "trans": [
+      "PSII"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "PSI",
+    "trans": [
+      "PSI（每平方英寸）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Carbon fixation",
+    "trans": [
+      "碳固定"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cell cycle",
+    "trans": [
+      "细胞周期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "S Phase",
+    "trans": [
+      "S期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Diploid",
+    "trans": [
+      "染色體倍性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Haploid",
+    "trans": [
+      "染色體倍性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Somatic cell",
+    "trans": [
+      "体细胞"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gametic cell",
+    "trans": [
+      "配子细胞"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Sexual reproduction",
+    "trans": [
+      "有性繁殖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Asexual reproduction",
+    "trans": [
+      "无性繁殖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Karyotype",
+    "trans": [
+      "核型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "External regulators",
+    "trans": [
+      "外部监管机构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Internal regulators",
+    "trans": [
+      "内部监管机构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Apoptosis",
+    "trans": [
+      "细胞凋亡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Checkpoints",
+    "trans": [
+      "检查点"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cyclins",
+    "trans": [
+      "细胞周期蛋白类"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Chromosome",
+    "trans": [
+      "染色体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Chromatin",
+    "trans": [
+      "染色质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Chromatid",
+    "trans": [
+      "染色单体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Replication",
+    "trans": [
+      "复制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Binary fission",
+    "trans": [
+      "分裂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mitotic spindle",
+    "trans": [
+      "有丝分裂纺锤体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Growth factors",
+    "trans": [
+      "生长因子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nondisjunction",
+    "trans": [
+      "非分离"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Telophase",
+    "trans": [
+      "末期(细胞分裂)"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Metaphase plate",
+    "trans": [
+      "中期板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cytokinesis",
+    "trans": [
+      "胞质分裂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cleavage furrow",
+    "trans": [
+      "卵裂沟"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cell plate",
+    "trans": [
+      "细胞板"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Meiosis",
+    "trans": [
+      "减数分裂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fertilization",
+    "trans": [
+      "受孕"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Zygote",
+    "trans": [
+      "受精卵"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Spindle",
+    "trans": [
+      "轮轴"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Contact inhibition",
+    "trans": [
+      "接触抑制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Histone",
+    "trans": [
+      "组蛋白"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Autosome",
+    "trans": [
+      "常染色体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mitosis",
+    "trans": [
+      "分裂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Prophase",
+    "trans": [
+      "前期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Centriole",
+    "trans": [
+      "Centriole"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Centromere",
+    "trans": [
+      "着丝粒"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Metaphase",
+    "trans": [
+      "中期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Anaphase",
+    "trans": [
+      "后期(细胞分裂)"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Tumor",
+    "trans": [
+      "肿瘤"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Benign",
+    "trans": [
+      "良性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Metastasis",
+    "trans": [
+      "转移灶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cancer",
+    "trans": [
+      "癌症"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Prophase I and II",
+    "trans": [
+      "前期I和II期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Metaphase I and II",
+    "trans": [
+      "中期I和II"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Anaphase I and II",
+    "trans": [
+      "后期I和II期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Telophase I and II",
+    "trans": [
+      "端相I和II"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Homozygous",
+    "trans": [
+      "纯合子："
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phenotype",
+    "trans": [
+      "表型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Genotype",
+    "trans": [
+      "基因型"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Monohybrid punnett squares",
+    "trans": [
+      "单杂交拼接正方形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Single gene traits",
+    "trans": [
+      "单基因性状"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Crossing over",
+    "trans": [
+      "交换"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Interphase",
+    "trans": [
+      "間期"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Recombination",
+    "trans": [
+      "重組"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Homologous chromosomes",
+    "trans": [
+      "同源染色体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Tetrads",
+    "trans": [
+      "Tetrads"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Independent assortment",
+    "trans": [
+      "独立品种"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Sister chromatids",
+    "trans": [
+      "姐妹染色单体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gamete",
+    "trans": [
+      "生殖细胞"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gene",
+    "trans": [
+      "Gene"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Trait",
+    "trans": [
+      "特性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Allele",
+    "trans": [
+      "等位基因"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Dominant (allele/trait)",
+    "trans": [
+      "显性（等位基因/性状）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Recessive (allele/trait)",
+    "trans": [
+      "隐性（等位基因/性状）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Heterozygous",
+    "trans": [
+      "杂合子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Probability",
+    "trans": [
+      "概 率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Carrier",
+    "trans": [
+      "航母"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Complete dominance",
+    "trans": [
+      "完全称霸"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Dihybrid punnett squares",
+    "trans": [
+      "双杂交拼接正方形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Non-mendelian inheritance",
+    "trans": [
+      "非孟德尔遗传"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "polygenic traits",
+    "trans": [
+      "多基因性状"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Codominance",
+    "trans": [
+      "Codominance"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Incomplete dominance",
+    "trans": [
+      "不完全支配地位"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Sex-linked traits",
+    "trans": [
+      "与性有关的特征"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Sex chromosomes",
+    "trans": [
+      "异源染色体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Multiple alleles",
+    "trans": [
+      "多个等位基因"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Pedigree",
+    "trans": [
+      "谱系"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Double helix",
+    "trans": [
+      "双螺旋"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Pyrimidine",
+    "trans": [
+      "嘧啶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Purine",
+    "trans": [
+      "Purine"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Rosalind Franklin",
+    "trans": [
+      "Rosalind Franklin"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "James Watson",
+    "trans": [
+      "James Watson"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Francis Crick",
+    "trans": [
+      "Francis Crick"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Complementary base pairs",
+    "trans": [
+      "互补碱基对"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RNA",
+    "trans": [
+      "RNA"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "DNA",
+    "trans": [
+      "基因"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Aptiparallel",
+    "trans": [
+      "Aptiparallel"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Centrosome",
+    "trans": [
+      "中心体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Homeostasis",
+    "trans": [
+      "机体平衡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Replication fork/ Replication",
+    "trans": [
+      "复制分叉/复制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bubble",
+    "trans": [
+      "气泡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Helicase",
+    "trans": [
+      "螺旋酶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Okazaki fragments",
+    "trans": [
+      "冈崎碎片"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nitrogen bases (adenine",
+    "trans": [
+      "氮碱（腺嘌呤"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mutation",
+    "trans": [
+      "变异"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Dna replication",
+    "trans": [
+      "DNA复制"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Codon",
+    "trans": [
+      "密码子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RNA processing",
+    "trans": [
+      "RNA加工"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Exons",
+    "trans": [
+      "外显子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Introns",
+    "trans": [
+      "内含子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Anternative RNA splicing",
+    "trans": [
+      "选择性RNA剪接"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Anticodon",
+    "trans": [
+      "反密码子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "TATA box",
+    "trans": [
+      "TATA框"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Dna polymerase",
+    "trans": [
+      "DNA聚合酶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Semiconservative",
+    "trans": [
+      "半保守"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "replication",
+    "trans": [
+      "原告的答辩"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Leading strand",
+    "trans": [
+      "前导链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Lagging strand",
+    "trans": [
+      "滞后股"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Telomeres",
+    "trans": [
+      "端粒"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gene expression",
+    "trans": [
+      "基因表达"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Transcription",
+    "trans": [
+      "音译"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "RNA polymerase",
+    "trans": [
+      "RNA聚合酶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Promoter",
+    "trans": [
+      "推广员"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Terminator",
+    "trans": [
+      "终结者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mRNA",
+    "trans": [
+      "mRNA（信使RNA）"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Translation",
+    "trans": [
+      "Translation"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tRNA",
+    "trans": [
+      "tRNA"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Protein synthesis",
+    "trans": [
+      "蛋白合成"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Genetic code",
+    "trans": [
+      "遗传密码"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Apoposis",
+    "trans": [
+      "凋亡"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Start codon",
+    "trans": [
+      "启动密码子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Stop codon",
+    "trans": [
+      "终止密码子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Point mutation",
+    "trans": [
+      "点突变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Missense mutation",
+    "trans": [
+      "错义突变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Nonsense mutation",
+    "trans": [
+      "无意义突变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Frameshift mutation",
+    "trans": [
+      "移码突变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Plasmids",
+    "trans": [
+      "Plasmids"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Charles Darwin",
+    "trans": [
+      "查尔斯·达尔文"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Galapagos islands",
+    "trans": [
+      "加拉帕戈斯群岛"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Georges Cuvier",
+    "trans": [
+      "乔治·居维叶"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "James Hutton",
+    "trans": [
+      "James Hutton"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Charles Lyell",
+    "trans": [
+      "Charles Lyell"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Thomas Malthus",
+    "trans": [
+      "Thomas Malthus"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Jean-Baptiste de Lamarck",
+    "trans": [
+      "让-巴蒂斯特·德·拉马克"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Evolution",
+    "trans": [
+      "发展演变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Population",
+    "trans": [
+      "适用人群"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Species",
+    "trans": [
+      "种"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Natural selection",
+    "trans": [
+      "自然选择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Drivers of natural selection",
+    "trans": [
+      "自然选择的驱动因素"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Survival of the fittest",
+    "trans": [
+      "优胜劣汰"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Phenotypic variation",
+    "trans": [
+      "表型变异"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Competition",
+    "trans": [
+      "#ac_zjbp_title#"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Descent with modification",
+    "trans": [
+      "有修改的下降"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mutations",
+    "trans": [
+      "变异"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Allele frequency",
+    "trans": [
+      "等位基因频率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gene pool",
+    "trans": [
+      "基因池"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Gene flow",
+    "trans": [
+      "基因流"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Genetic drift",
+    "trans": [
+      "遗传漂变"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Common ancestry",
+    "trans": [
+      "共同祖先"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Cladogram",
+    "trans": [
+      "分支图"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Adaptations",
+    "trans": [
+      "适应性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Convergent evolution",
+    "trans": [
+      "融合进化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Vestigial traits",
+    "trans": [
+      "退化特征"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Analogous structure",
+    "trans": [
+      "类似结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Embryology",
+    "trans": [
+      "胚胎学"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Conserved sequences",
+    "trans": [
+      "保守序列"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fossil record",
+    "trans": [
+      "化石记录"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Homology",
+    "trans": [
+      "同源"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Biogeography",
+    "trans": [
+      "动物地理学"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Biotic factor",
+    "trans": [
+      "生物因子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Abiotic factor",
+    "trans": [
+      "非生物因子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Selective pressure",
+    "trans": [
+      "选择压力"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Founder effect",
+    "trans": [
+      "建立者效应"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Evolutionary tree",
+    "trans": [
+      "进化树"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Homologous structure",
+    "trans": [
+      "同源结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Genetic variation",
+    "trans": [
+      "种内遗传多样性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hybrid",
+    "trans": [
+      "线上线下混合模式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Natural Selection",
+    "trans": [
+      "天择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Disruptive selection",
+    "trans": [
+      "破坏性选择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Directional selection",
+    "trans": [
+      "方向选择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Stabilizing selection",
+    "trans": [
+      "稳定选择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Relative frequency",
+    "trans": [
+      "相对频率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fitness",
+    "trans": [
+      "身体状况"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Artificial Selection",
+    "trans": [
+      "人工选择"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Predator",
+    "trans": [
+      "掠食者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Prey",
+    "trans": [
+      "猎物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Coevolution",
+    "trans": [
+      "协同进化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Symbiosis",
+    "trans": [
+      "共生"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Commensalism",
+    "trans": [
+      "共栖"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Parasitism",
+    "trans": [
+      "寄生现象"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Heterotrophs",
+    "trans": [
+      "异养体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Tertiary consumer",
+    "trans": [
+      "三级消费者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Biotic",
+    "trans": [
+      "生物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Ectotherm",
+    "trans": [
+      "Ectotherm"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Primary consumer",
+    "trans": [
+      "主要消费者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Decomposer",
+    "trans": [
+      "分解者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Primary production",
+    "trans": [
+      "初级生产"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Secondary production",
+    "trans": [
+      "次生产"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Habitat loss",
+    "trans": [
+      "栖息地丧失"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Biodiversity",
+    "trans": [
+      "生物多样性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Predation",
+    "trans": [
+      "捕食"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Herbivory",
+    "trans": [
+      "植食"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mutualism",
+    "trans": [
+      "互惠互利"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Species richness",
+    "trans": [
+      "物种丰富度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Niche partitioning",
+    "trans": [
+      "利基分区"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Community",
+    "trans": [
+      "粉丝论坛"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Keystone species",
+    "trans": [
+      "梯形物种"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Invasive species",
+    "trans": [
+      "侵入种"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Mimicry",
+    "trans": [
+      "拟态"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Camouflage",
+    "trans": [
+      "伪装迷彩"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Metabolic rate",
+    "trans": [
+      "代谢率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Primary producer",
+    "trans": [
+      "初级生产商"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Secondary consumer",
+    "trans": [
+      "次要消费者"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Food chain",
+    "trans": [
+      "食物链"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Food web",
+    "trans": [
+      "食物网"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "name": "rectangle",
+    "trans": [
+      "长方形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "addend",
+    "trans": [
+      "加数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sum",
+    "trans": [
+      "和"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "value",
+    "trans": [
+      "数值；价值"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expanded notation",
+    "trans": [
+      "展开形式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "standard notation",
+    "trans": [
+      "标准形式"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "real number",
+    "trans": [
+      "实数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rational number",
+    "trans": [
+      "有理数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "irrational number",
+    "trans": [
+      "无理数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "integer",
+    "trans": [
+      "{……，-3，-2，-1，0,1,2,3，……}"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "whole number",
+    "trans": [
+      "{0,1,2,3，……}"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "positive number",
+    "trans": [
+      "正数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "negative number",
+    "trans": [
+      "负数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "round",
+    "trans": [
+      "近似"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "straight angle",
+    "trans": [
+      "直角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "factor",
+    "trans": [
+      "因数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "product",
+    "trans": [
+      "乘积"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dividend",
+    "trans": [
+      "被除数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "divisor",
+    "trans": [
+      "除数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quotient",
+    "trans": [
+      "商"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "algorithm",
+    "trans": [
+      "算法"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "multiplication",
+    "trans": [
+      "乘"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "division",
+    "trans": [
+      "除"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "addition",
+    "trans": [
+      "加"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "subtraction",
+    "trans": [
+      "减"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "determine",
+    "trans": [
+      "解出"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "how much greater",
+    "trans": [
+      "多多少"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "how much less",
+    "trans": [
+      "少多少"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "acute angle",
+    "trans": [
+      "锐角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "obtuse angle",
+    "trans": [
+      "钝角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "right angle",
+    "trans": [
+      "直角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "divisibility",
+    "trans": [
+      "可整除性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prime number",
+    "trans": [
+      "质数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "composite number",
+    "trans": [
+      "合数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "segment",
+    "trans": [
+      "线段"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ray",
+    "trans": [
+      "射线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "line",
+    "trans": [
+      "直线"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reflex angle",
+    "trans": [
+      "180-360"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sphere",
+    "trans": [
+      "球体"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lateral surface area",
+    "trans": [
+      "侧表面积"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "surface area",
+    "trans": [
+      "表面积"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "concave",
+    "trans": [
+      "凹多边形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convex",
+    "trans": [
+      "凸多边形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scalene triangle",
+    "trans": [
+      "斜三角形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "isosceles triangle",
+    "trans": [
+      "等腰三角形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "equilateral triangle",
+    "trans": [
+      "等边三角形"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "circumference",
+    "trans": [
+      "周长"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "increase by",
+    "trans": [
+      "增加了"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "increase to",
+    "trans": [
+      "增加到"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "central angle",
+    "trans": [
+      "圆心角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inscribed angle",
+    "trans": [
+      "圆周角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "slope",
+    "trans": [
+      "斜率"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "intercept",
+    "trans": [
+      "截距"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "parallel",
+    "trans": [
+      "平行的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "perpendicular",
+    "trans": [
+      "垂直的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "elimination",
+    "trans": [
+      "消元"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "subtitution",
+    "trans": [
+      "换元"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vertical angle",
+    "trans": [
+      "对顶角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "corresponding angle",
+    "trans": [
+      "同位角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "opposite",
+    "trans": [
+      "相反数"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "similar",
+    "trans": [
+      "相似的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "congruent",
+    "trans": [
+      "全等的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "remote interior angle",
+    "trans": [
+      "不相邻的内角"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

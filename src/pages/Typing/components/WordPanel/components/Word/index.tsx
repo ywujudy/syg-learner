@@ -11,7 +11,9 @@ import type { WordPronunciationIconRef } from '@/components/WordPronunciationIco
 import { WordPronunciationIcon } from '@/components/WordPronunciationIcon'
 import { EXPLICIT_SPACE } from '@/constants'
 import useKeySounds from '@/hooks/useKeySounds'
+import { letterProgressAtom } from '@/pages/Typing/components/RaceTrack/atom'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
+import { ENERGY_PER_BAR, energyBarsAtom, energyPointsAtom } from '@/pages/Typing/store/energyAtom'
 import {
   currentChapterAtom,
   currentDictInfoAtom,
@@ -24,8 +26,9 @@ import {
 import type { Word } from '@/typings'
 import { CTRL, getUtcStringForMixpanel } from '@/utils'
 import { useSaveWordRecord } from '@/utils/db'
-import { useAtomValue } from 'jotai'
-import { useCallback, useContext, useEffect, useRef, useState } from 'react'
+import { buildSyllableIndexMap } from '@/utils/phonics'
+import { useAtom, useAtomValue, useSetAtom } from 'jotai'
+import { useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 import { useImmer } from 'use-immer'
 
@@ -48,6 +51,9 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   const currentLanguage = useAtomValue(currentDictInfoAtom).language
   const currentLanguageCategory = useAtomValue(currentDictInfoAtom).languageCategory
   const currentChapter = useAtomValue(currentChapterAtom)
+  const setLetterProgress = useSetAtom(letterProgressAtom)
+  const [energyPoints, setEnergyPoints] = useAtom(energyPointsAtom)
+  const setEnergyBars = useSetAtom(energyBarsAtom)
 
   const [showTipAlert, setShowTipAlert] = useState(false)
   const wordPronunciationIconRef = useRef<WordPronunciationIconRef>(null)
@@ -165,6 +171,8 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     ],
   )
 
+  const syllableIndexMap = useMemo(() => buildSyllableIndexMap(wordState.displayWord), [wordState.displayWord])
+
   useEffect(() => {
     const inputLength = wordState.inputWord.length
     /**
@@ -190,6 +198,20 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
         state.letterTimeArray.push(Date.now())
         state.correctCount += 1
       })
+
+      const next = energyPoints + 1
+      if (next >= ENERGY_PER_BAR) {
+        setEnergyBars((bars) => bars + Math.floor(next / ENERGY_PER_BAR))
+        setEnergyPoints(next % ENERGY_PER_BAR)
+      } else {
+        setEnergyPoints(next)
+      }
+
+      const totalLetters = state.chapterData.words.reduce((sum, w) => sum + w.name.length, 0)
+      if (totalLetters > 0) {
+        const completedWordLetters = state.chapterData.words.slice(0, state.chapterData.index).reduce((sum, w) => sum + w.name.length, 0)
+        setLetterProgress(Math.min(1, (completedWordLetters + inputLength) / totalLetters))
+      }
 
       if (inputLength >= wordState.displayWord.length) {
         // 完成输入时
@@ -238,8 +260,11 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     if (wordState.hasWrong) {
       const timer = setTimeout(() => {
         setWordState((state) => {
-          state.inputWord = ''
-          state.letterStates = new Array(state.letterStates.length).fill('normal')
+          const wrongIndex = state.inputWord.length - 1
+          state.inputWord = state.inputWord.slice(0, wrongIndex)
+          if (wrongIndex >= 0 && state.letterStates[wrongIndex]) {
+            state.letterStates[wrongIndex] = 'normal'
+          }
           state.hasWrong = false
         })
       }, 300)
@@ -300,7 +325,15 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
             className={`flex items-center ${isTextSelectable && 'select-all'} justify-center ${wordState.hasWrong ? style.wrong : ''}`}
           >
             {wordState.displayWord.split('').map((t, index) => {
-              return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
+              return (
+                <Letter
+                  key={`${index}-${t}`}
+                  letter={t}
+                  visible={getLetterVisible(index)}
+                  state={wordState.letterStates[index]}
+                  syllableIndex={syllableIndexMap[index]}
+                />
+              )
             })}
           </div>
           {pronunciationIsOpen && (

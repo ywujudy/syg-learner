@@ -35,3 +35,13 @@ stats.html
 /playwright/.cache/
 playwright-report
 .vercel
+
+# 大目录：真题/试卷/示例素材，只在本地留存，不推 GitHub
+/juanzhu
+/example
+/basisG8单词
+/logo
+/public/历年真题已更新至25年1月
+
+# 老的本地 Express 后端（已迁移到 /api/ Vercel serverless）
+/server

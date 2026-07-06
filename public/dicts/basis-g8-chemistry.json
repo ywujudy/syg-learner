@@ -1,0 +1,362 @@
+[
+  {
+    "name": "atom",
+    "trans": [
+      "原子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "element",
+    "trans": [
+      "元素"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "molecule",
+    "trans": [
+      "分子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "diatomic molecule",
+    "trans": [
+      "双原子分子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compound",
+    "trans": [
+      "化合物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fixed",
+    "trans": [
+      "固定的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "property",
+    "trans": [
+      "性质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ion",
+    "trans": [
+      "离子"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mixture",
+    "trans": [
+      "混合物"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "homogeneous",
+    "trans": [
+      "均相的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heterogeneous",
+    "trans": [
+      "非均相的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "solution",
+    "trans": [
+      "溶液"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "solute",
+    "trans": [
+      "溶质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "solvent",
+    "trans": [
+      "溶剂"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "definite",
+    "trans": [
+      "固定的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lattice",
+    "trans": [
+      "晶格结构"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "compressible",
+    "trans": [
+      "可压缩的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vibrate",
+    "trans": [
+      "震动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "weak",
+    "trans": [
+      "弱"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "uniform",
+    "trans": [
+      "均匀的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "container",
+    "trans": [
+      "容器"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "far apart",
+    "trans": [
+      "远离"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "negligible",
+    "trans": [
+      "可忽略的"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "melting",
+    "trans": [
+      "融化"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "freezing",
+    "trans": [
+      "冻结"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "boiling",
+    "trans": [
+      "沸腾"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "condensation",
+    "trans": [
+      "凝结"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sublimation",
+    "trans": [
+      "升华"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "deposition",
+    "trans": [
+      "凝华"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "absorb",
+    "trans": [
+      "吸收"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heat",
+    "trans": [
+      "热"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "surroundings",
+    "trans": [
+      "环境"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "endothermic",
+    "trans": [
+      "吸热"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "release",
+    "trans": [
+      "释放"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exothermic",
+    "trans": [
+      "放热"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "density",
+    "trans": [
+      "密度"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suspend",
+    "trans": [
+      "悬浮"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "phsical property",
+    "trans": [
+      "物理性质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chemical property",
+    "trans": [
+      "化学性质"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "odor",
+    "trans": [
+      "气味"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "luster",
+    "trans": [
+      "光泽"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "conductivity",
+    "trans": [
+      "导电性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "malleability",
+    "trans": [
+      "可塑性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ductility",
+    "trans": [
+      "延展性"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rust",
+    "trans": [
+      "生锈"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

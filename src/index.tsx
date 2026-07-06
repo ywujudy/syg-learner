@@ -1,8 +1,17 @@
 import Loading from './components/Loading'
 import './index.css'
+import DonatePage from './pages/Donate'
 import { ErrorBook } from './pages/ErrorBook'
+import ExamPage from './pages/Exam'
+import ExamALevelPage from './pages/Exam/ALevel'
+import ExamEdxMathPage from './pages/Exam/EdxMath'
 import { FriendLinks } from './pages/FriendLinks'
+import HomePage from './pages/Home'
 import MobilePage from './pages/Mobile'
+import RoomBookingPage from './pages/RoomBooking'
+import SettingsPage from './pages/Settings'
+import TreeHolePage from './pages/TreeHole'
+import TreeHoleDetailPage from './pages/TreeHole/Detail'
 import TypingPage from './pages/Typing'
 import { isOpenDarkModeAtom } from '@/store'
 import { Analytics } from '@vercel/analytics/react'
@@ -56,11 +65,20 @@ function Root() {
               <Route path="/*" element={<Navigate to="/mobile" />} />
             ) : (
               <>
-                <Route index element={<TypingPage />} />
+                <Route index element={<HomePage />} />
+                <Route path="/typing" element={<TypingPage />} />
+                <Route path="/donate" element={<DonatePage />} />
+                <Route path="/settings" element={<SettingsPage />} />
+                <Route path="/exam" element={<ExamPage />} />
+                <Route path="/exam/alevel" element={<ExamALevelPage />} />
+                <Route path="/exam/alevel/edx/math" element={<ExamEdxMathPage />} />
                 <Route path="/gallery" element={<GalleryPage />} />
                 <Route path="/analysis" element={<AnalysisPage />} />
                 <Route path="/error-book" element={<ErrorBook />} />
                 <Route path="/friend-links" element={<FriendLinks />} />
+                <Route path="/tree-hole" element={<TreeHolePage />} />
+                <Route path="/tree-hole/:id" element={<TreeHoleDetailPage />} />
+                <Route path="/room-booking" element={<RoomBookingPage />} />
                 <Route path="/*" element={<Navigate to="/" />} />
               </>
             )}

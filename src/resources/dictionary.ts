@@ -1,6 +1,54 @@
 import type { Dictionary, DictionaryResource } from '@/typings/index'
 import { calcChapterCount } from '@/utils'
 
+// 贝赛思 G8
+const basisG8: DictionaryResource[] = [
+  {
+    id: 'basis-g8-math',
+    name: '贝赛思G8数学',
+    description: '贝赛思八年级数学词汇',
+    category: '贝赛思 G8',
+    tags: ['贝赛思', '数学'],
+    url: '/dicts/basis-g8-math.json',
+    length: 63,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'basis-g8-physics',
+    name: '贝赛思G8物理',
+    description: '贝赛思八年级物理词汇',
+    category: '贝赛思 G8',
+    tags: ['贝赛思', '物理'],
+    url: '/dicts/basis-g8-physics.json',
+    length: 47,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'basis-g8-chemistry',
+    name: '贝赛思G8化学',
+    description: '贝赛思八年级化学词汇',
+    category: '贝赛思 G8',
+    tags: ['贝赛思', '化学'],
+    url: '/dicts/basis-g8-chemistry.json',
+    length: 45,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'basis-g8-biology',
+    name: '贝赛思G8生物',
+    description: '贝赛思八年级生物词汇（中文释义为机翻，可能需校对）',
+    category: '贝赛思 G8',
+    tags: ['贝赛思', '生物'],
+    url: '/dicts/basis-g8-biology.json',
+    length: 356,
+    language: 'en',
+    languageCategory: 'en',
+  },
+]
+
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
@@ -4171,6 +4219,7 @@ const indonesianDicts: DictionaryResource[] = [
  * Why arrays? Because it keeps the order across browsers.
  */
 export const dictionaryResources: DictionaryResource[] = [
+  ...basisG8,
   ...chinaExam,
   ...internationalExam,
   ...childrenEnglish,
