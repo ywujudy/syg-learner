@@ -1,4 +1,5 @@
 import logo from '@/assets/syg-logo.jpg'
+import siyangeLink from '@/assets/siyangelink.jpg'
 import AuthDialog from '@/components/AuthDialog'
 import Footer from '@/components/Footer'
 import { authUserAtom } from '@/store/authAtom'
@@ -204,6 +205,16 @@ const Home: React.FC = () => {
               </div>
             )
           })}
+        </section>
+
+        <section className="mx-auto mt-14 max-w-md rounded-2xl border border-blue-100 bg-white p-6 text-center shadow-sm dark:border-slate-700 dark:bg-slate-800 lg:mt-20">
+          <h2 className="text-base font-semibold text-slate-900 dark:text-white">扫码联系思研阁</h2>
+          <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">微信扫码，加入思研阁社区</p>
+          <div className="mt-4 flex justify-center">
+            <div className="rounded-xl border border-slate-200 bg-white p-3 dark:border-slate-700">
+              <img src={siyangeLink} alt="思研阁联系二维码" className="h-52 w-52 object-contain sm:h-60 sm:w-60" />
+            </div>
+          </div>
         </section>
       </main>
 
