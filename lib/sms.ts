@@ -48,8 +48,10 @@ export const sendSmsCode = async ({ phone, code }: SendCodeArgs): Promise<SendCo
   const region = process.env.TENCENT_SMS_REGION?.trim() || 'ap-guangzhou'
 
   const configured = !!(secretId && secretKey && sdkAppId && signName && templateId)
+  // 生产环境需要显式设置 SMS_DEV_MODE=1 才允许走 dev fallback（任何人拿走任意手机号验证码）
+  const devAllowed = process.env.VERCEL_ENV !== 'production' || process.env.SMS_DEV_MODE === '1'
   if (!configured) {
-    if (process.env.VERCEL_ENV === 'production') {
+    if (!devAllowed) {
       throw new Error('腾讯云短信未配置，无法在生产环境发送验证码')
     }
     console.log(`[sms:dev] phone=${phone} code=${code}`)
