@@ -1,4 +1,4 @@
-import qrImage from '@/assets/huiyishiyuyue.jpg'
+import qrImage from '@/assets/huiyishiyuyue.png'
 import logo from '@/assets/syg-logo.jpg'
 import Footer from '@/components/Footer'
 import type React from 'react'
