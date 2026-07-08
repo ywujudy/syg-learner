@@ -14,9 +14,11 @@ import TreeHolePage from './pages/TreeHole'
 import TreeHoleDetailPage from './pages/TreeHole/Detail'
 import TypingPage from './pages/Typing'
 import { isOpenDarkModeAtom } from '@/store'
+import { authUserAtom } from '@/store/authAtom'
+import { reloadCustomDictionariesAtom } from '@/store/customDictAtom'
 import { Analytics } from '@vercel/analytics/react'
 import 'animate.css'
-import { useAtomValue } from 'jotai'
+import { useAtomValue, useSetAtom } from 'jotai'
 import mixpanel from 'mixpanel-browser'
 import process from 'process'
 import React, { Suspense, lazy, useEffect, useState } from 'react'
@@ -37,9 +39,16 @@ if (process.env.NODE_ENV === 'production') {
 
 function Root() {
   const darkMode = useAtomValue(isOpenDarkModeAtom)
+  const authUser = useAtomValue(authUserAtom)
+  const reloadCustomDicts = useSetAtom(reloadCustomDictionariesAtom)
+
   useEffect(() => {
     darkMode ? document.documentElement.classList.add('dark') : document.documentElement.classList.remove('dark')
   }, [darkMode])
+
+  useEffect(() => {
+    reloadCustomDicts()
+  }, [authUser, reloadCustomDicts])
 
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 600)
 

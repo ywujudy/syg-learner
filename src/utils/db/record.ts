@@ -163,6 +163,37 @@ export class RevisionDictRecord implements IRevisionDictRecord {
   }
 }
 
+export interface ICustomDictRecord {
+  id?: number
+  // 稳定 id，用于跟 dictionaries 数组里的自定义词典 id 匹配
+  dictId: string
+  // 归属用户，未登录时可为 'anonymous'
+  userId: string
+  name: string
+  description: string
+  words: Word[]
+  createdAt: number
+}
+
+export class CustomDictRecord implements ICustomDictRecord {
+  id?: number
+  dictId: string
+  userId: string
+  name: string
+  description: string
+  words: Word[]
+  createdAt: number
+
+  constructor(dictId: string, userId: string, name: string, description: string, words: Word[]) {
+    this.dictId = dictId
+    this.userId = userId
+    this.name = name
+    this.description = description
+    this.words = words
+    this.createdAt = getUTCUnixTimestamp()
+  }
+}
+
 export interface IRevisionWordRecord {
   word: string
   timeStamp: number

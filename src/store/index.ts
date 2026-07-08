@@ -1,4 +1,5 @@
 import atomForConfig from './atomForConfig'
+import { customDictMapAtom } from './customDictAtom'
 import { reviewInfoAtom } from './reviewInfoAtom'
 import { DISMISS_START_CARD_DATE_KEY, defaultFontSizeConfig } from '@/constants'
 import { idDictionaryMap } from '@/resources/dictionary'
@@ -19,7 +20,8 @@ import { atomWithStorage } from 'jotai/utils'
 export const currentDictIdAtom = atomWithStorage('currentDict', 'cet4')
 export const currentDictInfoAtom = atom<Dictionary>((get) => {
   const id = get(currentDictIdAtom)
-  let dict = idDictionaryMap[id]
+  const customMap = get(customDictMapAtom)
+  let dict = idDictionaryMap[id] ?? customMap[id]
   // 如果 dict 不存在，则返回 cet4. Typing 中会检查 DictId 是否存在，如果不存在则会重置为 cet4
   if (!dict) {
     dict = idDictionaryMap.cet4
