@@ -1,4 +1,4 @@
-import siyangeLink from '@/assets/siyangelink.jpg'
+import siyangeLink from '@/assets/siyangelink.png'
 import logo from '@/assets/syg-logo.jpg'
 import AuthDialog from '@/components/AuthDialog'
 import Footer from '@/components/Footer'
