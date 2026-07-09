@@ -21,7 +21,7 @@ import 'animate.css'
 import { useAtomValue, useSetAtom } from 'jotai'
 import mixpanel from 'mixpanel-browser'
 import process from 'process'
-import React, { Suspense, lazy, useEffect, useState } from 'react'
+import React, { Suspense, lazy, useEffect } from 'react'
 import 'react-app-polyfill/stable'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
@@ -50,48 +50,27 @@ function Root() {
     reloadCustomDicts()
   }, [authUser, reloadCustomDicts])
 
-  const [isMobile, setIsMobile] = useState(window.innerWidth <= 600)
-
-  useEffect(() => {
-    const handleResize = () => {
-      const isMobile = window.innerWidth <= 600
-      if (!isMobile) {
-        window.location.href = '/'
-      }
-      setIsMobile(isMobile)
-    }
-
-    window.addEventListener('resize', handleResize)
-    return () => window.removeEventListener('resize', handleResize)
-  }, [])
-
   return (
     <React.StrictMode>
       <BrowserRouter basename={REACT_APP_DEPLOY_ENV === 'pages' ? '/qwerty-learner' : ''}>
         <Suspense fallback={<Loading />}>
           <Routes>
-            {isMobile ? (
-              <Route path="/*" element={<Navigate to="/mobile" />} />
-            ) : (
-              <>
-                <Route index element={<HomePage />} />
-                <Route path="/typing" element={<TypingPage />} />
-                <Route path="/donate" element={<DonatePage />} />
-                <Route path="/settings" element={<SettingsPage />} />
-                <Route path="/exam" element={<ExamPage />} />
-                <Route path="/exam/alevel" element={<ExamALevelPage />} />
-                <Route path="/exam/alevel/edx/math" element={<ExamEdxMathPage />} />
-                <Route path="/gallery" element={<GalleryPage />} />
-                <Route path="/analysis" element={<AnalysisPage />} />
-                <Route path="/error-book" element={<ErrorBook />} />
-                <Route path="/friend-links" element={<FriendLinks />} />
-                <Route path="/tree-hole" element={<TreeHolePage />} />
-                <Route path="/tree-hole/:id" element={<TreeHoleDetailPage />} />
-                <Route path="/room-booking" element={<RoomBookingPage />} />
-                <Route path="/*" element={<Navigate to="/" />} />
-              </>
-            )}
+            <Route index element={<HomePage />} />
+            <Route path="/typing" element={<TypingPage />} />
+            <Route path="/donate" element={<DonatePage />} />
+            <Route path="/settings" element={<SettingsPage />} />
+            <Route path="/exam" element={<ExamPage />} />
+            <Route path="/exam/alevel" element={<ExamALevelPage />} />
+            <Route path="/exam/alevel/edx/math" element={<ExamEdxMathPage />} />
+            <Route path="/gallery" element={<GalleryPage />} />
+            <Route path="/analysis" element={<AnalysisPage />} />
+            <Route path="/error-book" element={<ErrorBook />} />
+            <Route path="/friend-links" element={<FriendLinks />} />
+            <Route path="/tree-hole" element={<TreeHolePage />} />
+            <Route path="/tree-hole/:id" element={<TreeHoleDetailPage />} />
+            <Route path="/room-booking" element={<RoomBookingPage />} />
             <Route path="/mobile" element={<MobilePage />} />
+            <Route path="/*" element={<Navigate to="/" />} />
           </Routes>
         </Suspense>
       </BrowserRouter>
